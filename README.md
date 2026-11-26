@@ -79,7 +79,7 @@ You add prompts, tools and rules. It gets better today. A week later the problem
 
 ## Features
 
-- **Three closing questions** — write-back, evolve, ablate. Answered every run, 'none' counts as an answer but must be stated
+- **Four closing questions** — write-back, evolve, ablate, limit. Answered every run, 'none' counts as an answer but must be stated. The fourth one asks what will break and under what condition; it is the only one that talks about how the output can mislead you
 - **First principles** — what problem, what minimal assumption, what is only 'we always did it this way'
 - **Adversarial review** — switch to attacker mode, classify risks high/medium/low, attach a fix to each
 - **Decision tiers S/A/B/C/D** — reversibility decides who signs off; escalation mid-execution stops work
@@ -87,7 +87,7 @@ You add prompts, tools and rules. It gets better today. A week later the problem
 
 ## Quick start
 
-Read `METHOD.md`, then wire the three questions into your agent's closing rule.
+Read `METHOD.md`, then wire the four questions into your agent's closing rule.
 
 ## Structure
 
